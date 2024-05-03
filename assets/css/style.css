@@ -70,8 +70,10 @@ h3, h4{
     font-size: 1rem;
     padding: 2.5rem 1rem;
     margin: 3rem auto;
-    
 }
+.ceo-orange #italic{
+    font-style: italic;
+} 
 .autore{
     font-size: 1.2rem;
     padding-top: 2rem;
