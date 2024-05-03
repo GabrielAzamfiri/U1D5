@@ -1,0 +1,125 @@
+/* Your styles here */
+body{
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1.2rem;
+    color: #393d41;
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+    
+}
+header{
+    background-color: black;
+}
+header img{
+    width: 8rem;
+    margin: 2rem auto;
+}
+
+.prima-section{
+    width: 100%;
+    background-image: url(../images/banner.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.prima-section p{
+    line-height: 2rem;
+}
+p{
+    padding: 0 2rem 2rem 2rem;
+}
+button {
+    background-color: #f04c2f ;
+    color: white;
+    font-weight: bold;
+    padding: 1rem 2rem;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 2rem;
+ }
+ h1, h2{
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: #25a2c3;
+    padding: 3rem ;
+   
+}
+h3, h4{
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    color: #25a2c3; 
+    padding: 3rem 6rem 3rem 6rem;
+}
+
+.img-rotonda{
+    background-image: url(../images/notebook.jpg);
+    width: 18rem;
+    height: 18rem;
+    border-radius: 50%;
+    background-position: center;
+    background-size: contain;
+    margin: auto;
+    margin-top: 3rem;
+}
+
+.ceo-orange{
+    background-color: #e22d0e;
+    color: white;
+    font-size: 1rem;
+    padding: 2.5rem 1rem;
+    margin: 3rem auto;
+    
+}
+.autore{
+    font-size: 1.2rem;
+    padding-top: 2rem;
+}
+aside{
+    width: 25rem;
+    border: 1px solid gray;
+    margin: 1.5rem auto;
+    
+}
+.img-articoli{
+ 
+    height: 15rem;
+    background-size: contain;  
+}
+.foto1{
+    background-image: url(../images/foto1.jpg);
+}
+.foto2{
+    background-image: url(../images/foto2.jpg);
+}
+.foto3{
+    background-image: url(../images/foto3.jpg);
+}
+
+
+footer{
+    background-color: #25a2c3;
+    padding: 1rem;
+}
+footer h2, .ceo-orange h2{
+    color: white;
+   
+}
+
+.link > a{
+    display: block;
+    padding: 0.3rem;
+}
+footer a {
+    color: #c8e7f0;
+}
+.link{
+    margin-bottom: 2rem;
+}
+footer span{
+    color:#c8e7f0;
+    margin-top: 4rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid white ;
+}
